@@ -1,13 +1,17 @@
 Daniel Silalahi
 
-Instalation :
+**Instalation :
 1.	Create your database
 2.	Input the name of the database you created earlier
 3.	Run the application
-Admin Account :
+
+
+**Admin Account :
 email : admin@gmail.com
 password : admin
-Functions that have been implemented:
+
+
+**Functions that have been implemented:
 1. User Registration
 2. Login
 3. User Management
