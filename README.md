@@ -1,6 +1,6 @@
 Daniel Silalahi
 
-**Instalation :
+*Instalation : *
 1.	Create your database
 2.	Input the name of the database you created earlier
 3.	Run the application
